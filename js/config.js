@@ -54,12 +54,12 @@ window.WEDDING = {
       date: "2026-12-12",
       times: [
         { label: "Lễ Tư Gia", time: "09:00" },
-        { label: "Tiệc Cưới", time: "11:30" },
+        { label: "Tiệc Cưới", time: "11:00" },
       ],
       lunar: "Nhằm ngày 04 tháng 11 năm Bính Ngọ",
       place: "Tư gia Nhà Gái",
-      address: "Thôn Đắk Tin, xã Đắk Ngọk, Quảng Ngãi",
-      map: "bride", // dùng link bản đồ nhà gái ở trên
+      address: "Nhà hàng Quốc Tuấn (14 Chu Văn An, Đăk Hà, Quảng Ngãi)",
+      map: "https://maps.app.goo.gl/VLv73BUheu2Zejqt8", // dùng link bản đồ nhà gái ở trên
       icon: "home",
     },
     {
@@ -68,7 +68,7 @@ window.WEDDING = {
       date: "2026-12-16",
       times: [
         { label: "Lễ Tư Gia", time: "09:00" },
-        { label: "Tiệc Cưới", time: "11:30" },
+        { label: "Tiệc Cưới", time: "11:00" },
       ],
       lunar: "Nhằm ngày 08 tháng 11 năm Bính Ngọ",
       place: "Tư gia Nhà Trai",
