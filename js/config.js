@@ -57,8 +57,8 @@ window.WEDDING = {
         { label: "Tiệc Cưới", time: "11:00" },
       ],
       lunar: "Nhằm ngày 04 tháng 11 năm Bính Ngọ",
-      place: "Tư gia Nhà Gái",
-      address: "Nhà hàng Quốc Tuấn (14 Chu Văn An, Đăk Hà, Quảng Ngãi)",
+      place: "Nhà hàng Quốc Tuấn",
+      address: "14 Chu Văn An, Đăk Hà, Quảng Ngãi",
       map: "https://maps.app.goo.gl/VLv73BUheu2Zejqt8", // dùng link bản đồ nhà gái ở trên
       icon: "home",
     },
