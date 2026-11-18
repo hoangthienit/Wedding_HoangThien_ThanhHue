@@ -10,7 +10,7 @@ window.WEDDING = {
     photo: "ima/web/avatar-chu-re.jpg",
     photoPos: "50% 50%", // vị trí cắt ảnh tròn (ngang dọc)
     father: "Phêro Nguyễn Văn Luyến",
-    mother: "Maria Phan Thị Nhung",
+    mother: "Matta Phan Thị Nhung",
     address: "Thôn 1 (thôn 6 cũ), xã Ea Hiao, Đắk Lắk",
     map: "https://maps.app.goo.gl/AfTNArYWyav91SLA8",
   },
