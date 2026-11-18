@@ -112,7 +112,7 @@ main {
 .opener-photo {
   width: min(190px, 52vw); aspect-ratio: 4 / 5; margin: 18px auto 12px;
   border-radius: 999px 999px 18px 18px;
-  background: 50% 8% / 118% auto no-repeat var(--pink-200);
+  background: 70% 8% / 170% auto no-repeat var(--pink-200);
   border: 5px solid #fff;
   box-shadow: 0 0 0 2px var(--pink-300), var(--shadow);
 }

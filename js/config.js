@@ -7,7 +7,7 @@ window.WEDDING = {
     saint: "Micae",
     fullName: "Nguyễn Phan Hoàng Thiện",
     rank: "Trưởng Nam",
-    photo: "ima/web/avatar-chu-re.jpg",
+    photo: "ima/web/DSC01940.jpg",
     photoPos: "50% 50%", // vị trí cắt ảnh tròn (ngang dọc)
     father: "Phêro Nguyễn Văn Luyến",
     mother: "Matta Phan Thị Nhung",
@@ -19,7 +19,7 @@ window.WEDDING = {
     saint: "Maria",
     fullName: "Vũ Thị Thanh Huế",
     rank: "Thứ Nữ",
-    photo: "ima/web/avatar-co-dau.jpg",
+    photo: "ima/web/DSC01987.jpg",
     photoPos: "50% 50%",
     father: "Vũ Trọng Kha",
     mother: "Đỗ Thị Mùi",
@@ -84,7 +84,7 @@ window.WEDDING = {
   },
 
   openerPhoto: "ima/web/anh-2.jpg", // ảnh màn hình "Mở thiệp"
-  cover: "ima/album/2aoborbue1efksnzhaa26umsyfzkp3aza46nze007.jpg", // ảnh bìa bên trong
+  cover: "ima/web/DSC02100.jpg", // ảnh bìa bên trong
   thanksPhoto: "ima/album/2aoborbue1ozy0kzksdi0irvhrd7mw5umatoalwu2.jpg",
   // Album: dùng js/gallery.js (tạo bằng ./them-anh.sh). Danh sách dưới chỉ dùng dự phòng.
   gallery: [
@@ -118,8 +118,8 @@ window.WEDDING = {
      messenger: tên người dùng Facebook (phần sau facebook.com/), vd "hoangthien.nguyen"
      Để trống mục nào thì nút đó sẽ ẩn. */
   contacts: [
-    { label: "Chú Rể", name: "Hoàng Thiện", photo: "ima/web/avatar-chu-re.jpg", photoPos: "50% 50%", phone: "0339.195.193", zalo: "0339.195.193", messenger: "HoangThienJasonTee" },
-    { label: "Cô Dâu", name: "Thanh Huế", photo: "ima/web/avatar-co-dau.jpg", photoPos: "50% 50%", phone: "085.743.0009", zalo: "085.743.0009", messenger: "thanhhue.hoangthien" },
+    { label: "Chú Rể", name: "Hoàng Thiện", photo: "ima/web/DSC01940.jpg", photoPos: "50% 50%", phone: "0339.195.193", zalo: "0339.195.193", messenger: "HoangThienJasonTee" },
+    { label: "Cô Dâu", name: "Thanh Huế", photo: "ima/web/DSC01987.jpg", photoPos: "50% 50%", phone: "085.743.0009", zalo: "085.743.0009", messenger: "thanhhue.hoangthien" },
   ],
   // Lời chúc gợi ý (khách có thể sửa trước khi gửi)
   blessing: "Chúc mừng hạnh phúc Hoàng Thiện & Thanh Huế! Chúc hai bạn trăm năm hạnh phúc, sớm có thiên thần nhỏ và luôn tràn đầy ơn lành của Chúa. 💕",
